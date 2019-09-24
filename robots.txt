@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://huxahlaiw.x-fei.me/sitemap.xml
